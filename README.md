@@ -5,6 +5,6 @@ DSCI100 Git Repository # 1
 
 Testing README.md file!
 
-Testing file modifications after cloning project. (to clone, use hhtps on GitHub)
+Testing file modifications after cloning project. (to clone, use hhtps option on GitHub)
 
 
